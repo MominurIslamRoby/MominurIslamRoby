@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me : Facebook: https://www.facebook.com/mominur.roby.00000007
+-Twitter: https://twitter.com/Mominur__Roby
+-Youtube: https://www.youtube.com/channel/UCFYihMRK2mRKLEbm_Cf7C-A 
 
 <!---
 MominurIslamRoby/MominurIslamRoby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
