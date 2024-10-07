@@ -1,7 +1,7 @@
 # 👋 Hello World 💙
 - 👋 Hi, I’m @MominurIslamRoby
-- 👀 I’m interested in html Coding
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning python & javascript
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me : Facebook: https://www.facebook.com/mominur.roby.00000007
 -Twitter: https://twitter.com/Mominur__Roby
