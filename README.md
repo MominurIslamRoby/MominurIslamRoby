@@ -1,9 +1,12 @@
 <h1 align="center">
-  Hi, I'm Mominur Islam Roby
+  Hi, I'm Mominur Islam Roby 👋
 </h1>
 
 <p align="center">
-  <strong>Computer Science Student · Frontend Developer · Exploring AI & Full-Stack</strong>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Frontend+Developer;Exploring+AI+and+Full-Stack;Building+Real+World+Projects"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
@@ -13,25 +16,14 @@
 - 🌐 Frontend Developer focused on **clean UI, structure, and logic**
 - 🧠 Exploring **AI tools, APIs, and full-stack application design**
 - ⚙️ Currently building a **ChatGPT-style chatbot using FastAPI**
-- 📈 I learn by **building, experimenting, and refining real projects**
+- 📈 Learning through **hands-on projects and continuous improvement**
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
-
-### ⚙️ Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,git,github" />
-</p>
-
-### ☁️ Currently Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,cloud" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,fastapi,git,github,linux" />
 </p>
 
 ---
@@ -49,6 +41,7 @@
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MominurIslamRoby&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
@@ -60,24 +53,31 @@
 ---
 
 ## 🔥 Contribution Streak
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MominurIslamRoby&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/MominurIslamRoby">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="30" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="34" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/mominur-islam-roby">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="30" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="34" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://mominurislamroby.github.io/PortfolioWebsite/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" width="30" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" width="34" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" />
 </p>
