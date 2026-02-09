@@ -75,12 +75,17 @@
 ---
 
 ## 📫 Connect With Me
-- 🌐 GitHub: https://github.com/MominurIslamRoby  
-- 💼 LinkedIn: https://linkedin.com/in/mominur-islam-roby  
-- 🧾 Portfolio: https://mominurislamroby.github.io/PortfolioWebsite/
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" />
+<p align="left">
+  <a href="https://github.com/MominurIslamRoby" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="30" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mominur-islam-roby" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mominurislamroby.github.io/PortfolioWebsite/" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" height="30" alt="Portfolio"/>
+  </a>
 </p>
