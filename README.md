@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science student with a strong interest in modern web technologies  
+- 🎓 Computer Science student passionate about modern web technologies  
 - 🌐 Frontend Developer focused on **clean UI, structure, and logic**
 - 🧠 Exploring **AI tools, APIs, and full-stack application design**
 - ⚙️ Currently building a **ChatGPT-style chatbot using FastAPI**
@@ -50,29 +50,26 @@
   Responsive personal portfolio built with modern HTML, CSS, and JavaScript
 
 - 🔹 **JavaScript & TypeScript Practice**  
-  Well-structured learning repositories focused on fundamentals and logic
+  Structured learning repositories focused on fundamentals and logic
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MominurIslamRoby&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MominurIslamRoby&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MominurIslamRoby&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MominurIslamRoby&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MominurIslamRoby&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MominurIslamRoby&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MominurIslamRoby&theme=github-dark&hide_border=true" />
 </p>
 
 ---
