@@ -40,17 +40,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MominurIslamRoby&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MominurIslamRoby&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
