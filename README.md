@@ -56,11 +56,8 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="34" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mominur-islam-roby">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="34" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://mominurislamroby.github.io/PortfolioWebsite/">
+ 
+  <a href="https://mominurislamroby.github.io/PortfolioWebsiteofRoby/">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" width="34" />
   </a>
 </p>
