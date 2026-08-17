@@ -90,16 +90,12 @@ me = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MominurIslamRoby&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MominurIslamRoby&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MominurIslamRoby&label=Public%20Repos&query=$.public_repos&color=F72585&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MominurIslamRoby&label=Followers&query=$.followers&color=7209B7&style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MominurIslamRoby&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MominurIslamRoby&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
