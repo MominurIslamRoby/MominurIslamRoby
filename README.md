@@ -87,15 +87,25 @@ me = {
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ Skills Proficiency
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MominurIslamRoby&label=Public%20Repos&query=$.public_repos&color=F72585&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MominurIslamRoby&label=Followers&query=$.followers&color=7209B7&style=for-the-badge&logo=github&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-85%25-F72585?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/React-80%25-7209B7?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a2e" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-75%25-F72585?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/FastAPI-70%25-7209B7?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a2e" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-70%25-F72585?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-80%25-7209B7?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1a2e" />
 </p>
 
+### 🔥 Contribution Heatmap
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MominurIslamRoby&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/F72585/MominurIslamRoby" alt="Mominur's GitHub Contribution Chart" width="100%" />
 </p>
 
 ---
