@@ -2,9 +2,14 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;C%23+%7C+React+%7C+TypeScript+%7C+FastAPI;Building+Full-Stack+%26+AI-Integrated+Apps;Clean+Code.+Real+Products."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=800&lines=Software+Engineer;C%23+%7C+React+%7C+TypeScript+%7C+FastAPI;Building+Full-Stack+%26+AI-Integrated+Apps;Clean+Code.+Real+Products."
     alt="Typing SVG"
   />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MominurIslamRoby&style=for-the-badge&color=F72585&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/MominurIslamRoby?style=for-the-badge&color=7209B7&labelColor=000000" />
 </p>
 
 <p align="center">
@@ -15,27 +20,34 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://mominurislamroby.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:7209B7&height=120&section=header" width="100%"/>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 Software Engineer building production-ready apps across **C#**, **React/TypeScript**, and **FastAPI**
-- 🖥️ Shipped **StoreMate** — a smart store management system with inventory tracking & automated PDF/QR invoicing
-- 🌐 Full-stack focus: **clean UI, solid architecture, and maintainable logic**
-- 🧠 Currently building **AI-integrated applications** (LLM APIs, data visualization tools)
-- 📈 Always improving — currently deepening backend/system design skills
-- 🔗 Portfolio: [mominurislamroby.com](https://mominurislamroby.com/)
+```yaml
+me = {
+  role: "Software Engineer",
+  stack: ["C#", "React", "TypeScript", "FastAPI", "Python"],
+  shipped: "StoreMate — smart store management system with automated PDF/QR invoicing",
+  focus: "AI-integrated full-stack applications",
+  motto: "Clean architecture > clever hacks"
+}
+```
+
+🔗 Portfolio: **[mominurislamroby.com](https://mominurislamroby.com/)**
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,python,fastapi,html,css,tailwind,git,github,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,python,fastapi,html,css,tailwind,git,github,figma,linux&theme=dark" />
 </p>
 
 ---
@@ -78,16 +90,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MominurIslamRoby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MominurIslamRoby&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MominurIslamRoby&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MominurIslamRoby&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MominurIslamRoby&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MominurIslamRoby&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MominurIslamRoby&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MominurIslamRoby&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
@@ -105,10 +117,8 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://mominurislamroby.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7209B7,100:F72585&height=120&section=footer" width="100%"/>
