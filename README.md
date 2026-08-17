@@ -90,7 +90,7 @@ me = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MominurIslamRoby&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MominurIslamRoby&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MominurIslamRoby&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
